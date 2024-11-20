@@ -1,0 +1,4 @@
+streamlit
+img2table[azure]
+opencv-contrib-python-headless
+Pillow
