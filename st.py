@@ -9,8 +9,8 @@ import tempfile
 import time
 
 # Azure OCR credentials (replace with your actual key and endpoint)
-subscription_key = "gMYpHRCnHqA8r2MxdtL203rBZ3WLTg4qFlH9wkxU40441ZLI302qJQQJ99AKACGhslBXJ3w3AAAFACOG50Ds"
-endpoint = "https://image-extration.cognitiveservices.azure.com/"
+subscription_key = "GD6ulmqehKFhHTQRGlXrp9KWFnJw1kraJFLMxBIDLjQMYW4OmpRvJQQJ99ALACYeBjFXJ3w3AAAFACOGdPzx"
+endpoint = "https://imagedataextration.cognitiveservices.azure.com/"
 
 # Initialize AzureOCR
 azure_ocr = AzureOCR(subscription_key=subscription_key, endpoint=endpoint)
